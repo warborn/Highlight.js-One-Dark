@@ -22,8 +22,11 @@ http://visoftinc.com/ (I hope that is the right URL, didn't really check :-/)
   font-size: 1.1em;
   font-weight: bold;
 }
+.hljs > *::selection {
+  background-color: #3e4451;
+}
 .hljs-comment {
-  color: #5c6370 !important;
+  color: #5c6370;
   font-style: italic;
 }
 
