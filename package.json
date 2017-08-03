@@ -1,0 +1,24 @@
+{
+  "name": "Highlight.js-One-Dark",
+  "version": "1",
+  "description": "This is the custom build theme for Highlight.js based on Atom's One Dark theme",
+  "main": "styles/onedark.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warborn/Highlight.js-One-Dark"
+  },
+  "keywords": [
+    "highlight.js",
+    "theme",
+    "one-dark"
+  ],
+  "author": "MegaXLR",
+  "license": "BSD 3-clause",
+  "bugs": {
+    "url": "https://github.com/warborn/Highlight.js-One-Dark/issues"
+  },
+  "homepage": "https://github.com/warborn/Highlight.js-One-Dark#readme"
+}
